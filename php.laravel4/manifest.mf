@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.nbphpcouncil.modules.php.laravel4/1
+OpenIDE-Module-Implementation-Version: 1
+OpenIDE-Module-Layer: org/nbphpcouncil/modules/php/laravel4/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/nbphpcouncil/modules/php/laravel4/resources/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1.1
+
